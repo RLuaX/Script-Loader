@@ -1,3 +1,4 @@
+--Game List
 local Games = {
     Big_Brain_Simulator={ID="1671262904", Script="https://raw.githubusercontent.com/RLuaX/Big-Brain-Simulator/master/main.lua"},
     Fart_Simulator={ID="1699761836", Script="https://raw.githubusercontent.com/RLuaX/Fart-Simulator/main/main.lua"},
