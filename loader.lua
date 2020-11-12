@@ -7,7 +7,7 @@ local Games = {
 
 }
 
-for k,v in pairs(Games) do
+for _,v in pairs(Games) do
     if tostring(game.GameId) == tostring(v.ID) then
         loadstring(game:HttpGet(v.Script))()
     end
