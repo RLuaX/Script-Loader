@@ -15,6 +15,10 @@ local Games = {
     Coffee_Simulator = {
         ID = "1874980360",
         Script = "https://raw.githubusercontent.com/RLuaX/Coffee-Simulator/master/main.lua"
+    },
+    Lift_Legends_Simulator = {
+        ID = "2021822948",
+        Script = "https://raw.githubusercontent.com/RLuaX/Lift-Legends-Simulator/main/main.lua"
     }
 }
 
